@@ -36,6 +36,4 @@ Project has N-Tier Architecture:
 2. [ ] Download Apache Tomcat version 9.x.x from the official Apache Tomcat website.
 3. [ ] Create a database using either a local MySQL installation or a remote database.
 4. [ ] Write your properties to ConnectionUtil class:
-
-![Знімок екрана 2023-07-02 о 21.58.14.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2Ffr%2Fxw2dbyf167n6bp8cfyjrclt00000gp%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_FlBu4i%2F%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-07-02%20%D0%BE%2021.58.14.png)
 5. [ ] Run project.
