@@ -36,6 +36,8 @@ Project has N-Tier Architecture:
 2. [ ] Download Apache Tomcat version 9.x.x from the official Apache Tomcat website.
 3. [ ] Create a database using either a local MySQL installation or a remote database.
 4. [ ] Write your properties to ConnectionUtil class:
+
  <img width="505" alt="Знімок екрана 2023-07-02 о 22 27 20" src="https://github.com/vika-trach/my-taxi-service/assets/122274162/34ac037a-0104-4e3d-bdc5-d1ddab6e7719">
 
 5. [ ] Run project.
+
